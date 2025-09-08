@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef, ReactNode } from 'react';
+import { useEffect, useState, useRef  } from 'react';
 import { motion, type HTMLMotionProps } from 'motion/react';
 
 const styles = {
