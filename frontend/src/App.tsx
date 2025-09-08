@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react"
 import DecryptedText from "./DecryptedText"
 import LetterGlitch from "./components/LetterGlitch"
 import "./App.css"
